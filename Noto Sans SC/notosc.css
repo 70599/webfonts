@@ -1,0 +1,49 @@
+/*
+* Noto Sans SC (Chinese Simplified) http://www.google.com/fonts/earlyaccess
+*/
+/*@font-face {
+	font-family: 'Noto Sans SC';
+	font-style: normal;
+	font-weight: 100;
+	src:
+		url(NotoSansSC-Thin.woff) format('woff'),
+		url(NotoSansSC-Thin.otf) format('opentype');
+}*/
+@font-face {
+	font-family: 'Noto Sans SC';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		url(NotoSansSC-Light.woff) format('woff');
+}
+/*@font-face {
+	font-family: 'Noto Sans SC';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		url(NotoSansSC-Regular.woff) format('woff'),
+		url(NotoSansSC-Regular.otf) format('opentype');
+ }*/
+@font-face {
+	font-family: 'Noto Sans SC';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		url(NotoSansSC-Medium.woff) format('woff');
+ }
+/*@font-face {
+	font-family: 'Noto Sans SC';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		url(NotoSansSC-Bold.woff) format('woff'),
+		url(NotoSansSC-Bold.otf) format('opentype');
+ }
+@font-face {
+	font-family: 'Noto Sans SC';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		url(NotoSansSC-Black.woff) format('woff'),
+		url(NotoSansSC-Black.otf) format('opentype');
+ }*/
