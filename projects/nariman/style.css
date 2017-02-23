@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'nariman';
+  src:
+	  url(https://cdn.rawgit.com/70599/webfonts/d067f67d/projects/nariman/nariman.woff2) format('woff2'),
+	  url(https://cdn.rawgit.com/70599/webfonts/d067f67d/projects/nariman/nariman.woff) format('woff'),
+	  url(https://cdn.rawgit.com/70599/webfonts/d067f67d/projects/nariman/nariman.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
