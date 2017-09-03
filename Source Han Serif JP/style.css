@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Noto Serif JP';
+	font-family: 'Source Han Serif';
 	font-style: normal;
 	font-weight: 100;
 	src:
@@ -8,7 +8,7 @@
 		url(https://cdn.rawgit.com/jdh8/source-han-serif/f214d58c/SourceHanSerifJP-ExtraLight.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Serif JP';
+	font-family: 'Source Han Serif';
 	font-style: normal;
 	font-weight: 300;
 	src:
@@ -17,7 +17,7 @@
 		url(https://cdn.rawgit.com/jdh8/source-han-serif/f214d58c/SourceHanSerifJP-Light.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Serif JP';
+	font-family: 'Source Han Serif';
 	font-style: normal;
 	font-weight: 400;
 	src:
@@ -26,7 +26,7 @@
 		url(https://cdn.rawgit.com/jdh8/source-han-serif/f214d58c/SourceHanSerifJP-Regular.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Serif JP';
+	font-family: 'Source Han Serif';
 	font-style: normal;
 	font-weight: 500;
 	src:
@@ -35,7 +35,7 @@
 		url(https://cdn.rawgit.com/jdh8/source-han-serif/f214d58c/SourceHanSerifJP-Medium.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Serif JP';
+	font-family: 'Source Han Serif';
 	font-style: normal;
 	font-weight: 600;
 	src:
@@ -44,7 +44,7 @@
 		url(https://cdn.rawgit.com/jdh8/source-han-serif/f214d58c/SourceHanSerifJP-SemiBold.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Serif JP';
+	font-family: 'Source Han Serif';
 	font-style: normal;
 	font-weight: 700;
 	src:
@@ -53,7 +53,7 @@
 		url(https://cdn.rawgit.com/jdh8/source-han-serif/f214d58c/SourceHanSerifJP-Bold.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Serif JP';
+	font-family: 'Source Han Serif';
 	font-style: normal;
 	font-weight: 900;
 	src:
