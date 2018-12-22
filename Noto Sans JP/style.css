@@ -3,52 +3,52 @@
 	font-style: normal;
 	font-weight: 100;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_100-Thin.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_100-Thin.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_100-Thin.otf) format('opentype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_100-Thin.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_100-Thin.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_100-Thin.otf) format('opentype');
 }
 @font-face {
 	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 300;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_300-Light.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_300-Light.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_300-Light.otf) format('opentype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_300-Light.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_300-Light.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_300-Light.otf) format('opentype');
 }
 @font-face {
 	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 400;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_400-Regular.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_400-Regular.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_400-Regular.otf) format('opentype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_400-Regular.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_400-Regular.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_400-Regular.otf) format('opentype');
 }
 @font-face {
 	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 500;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_500-Medium.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_500-Medium.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_500-Medium.otf) format('opentype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JPNotoSansJP_500-Medium.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_500-Medium.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_500-Medium.otf) format('opentype');
 }
 @font-face {
 	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 700;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_700-Bold.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_700-Bold.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_700-Bold.otf) format('opentype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_700-Bold.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_700-Bold.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_700-Bold.otf) format('opentype');
 }
 @font-face {
 	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 900;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_900-Black.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_900-Black.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Noto%20Sans%20JP/NotoSansJP_900-Black.otf) format('opentype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_900-Black.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_900-Black.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Noto%20Sans%20JP/NotoSansJP_900-Black.otf) format('opentype');
 }
