@@ -3,61 +3,61 @@
 	font-style: normal;
 	font-weight: 100;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_100-Thin.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_100-Thin.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_100-Thin.ttf) format('truetype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_100-Thin.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_100-Thin.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_100-Thin.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Rounded Mplus 1c';
 	font-style: normal;
 	font-weight: 300;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_300-Light.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_300-Light.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_300-Light.ttf) format('truetype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_300-Light.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_300-Light.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_300-Light.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Rounded Mplus 1c';
 	font-style: normal;
 	font-weight: 400;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_400-Regular.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_400-Regular.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_400-Regular.ttf) format('truetype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_400-Regular.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_400-Regular.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_400-Regular.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Rounded Mplus 1c';
 	font-style: normal;
 	font-weight: 500;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_500-Medium.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_500-Medium.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_500-Medium.ttf) format('truetype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_500-Medium.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_500-Medium.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_500-Medium.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Rounded Mplus 1c';
 	font-style: normal;
 	font-weight: 700;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_700-Bold.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_700-Bold.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_700-Bold.ttf) format('truetype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_700-Bold.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_700-Bold.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_700-Bold.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Rounded Mplus 1c';
 	font-style: normal;
 	font-weight: 800;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_800-ExtraBold.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_800-ExtraBold.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_800-ExtraBold.ttf) format('truetype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_800-ExtraBold.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_800-ExtraBold.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_800-ExtraBold.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Rounded Mplus 1c';
 	font-style: normal;
 	font-weight: 900;
 	src:
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_900-Black.woff2) format('woff2'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_900-Black.woff) format('woff'),
-		url(https://cdn.rawgit.com/70599/webfonts/51e4ac03/Rounded%20Mplus%201c/RoundedMplus1c_900-Black.ttf) format('truetype');
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_900-Black.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_900-Black.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts@51e4ac0304514c2b62c99f53440a931ed852c582/Rounded%20Mplus%201c/RoundedMplus1c_900-Black.ttf) format('truetype');
 }
