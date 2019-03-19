@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Mplus 1p';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		url(./Mplus1p_300-Light.woff2) format('woff2'),
+		url(./Mplus1p_300-Light.woff) format('woff'),
+		url(./Mplus1p_300-Light.ttf) format('truetype');
+}
