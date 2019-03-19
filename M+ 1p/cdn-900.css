@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Mplus 1p';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/M%2B%201p/Mplus1p_900-Black.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/M%2B%201p/Mplus1p_900-Black.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/M%2B%201p/Mplus1p_900-Black.ttf) format('truetype');
+}
