@@ -13,51 +13,51 @@
 	font-weight: 300;
 	src:
 		url(./Mplus1p_300-Light.woff2) format('woff2'),
-		url(.Mplus1p_300-Light.woff) format('woff'),
-		url(.Mplus1p_300-Light.ttf) format('truetype');
+		url(./Mplus1p_300-Light.woff) format('woff'),
+		url(./Mplus1p_300-Light.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Mplus 1p';
 	font-style: normal;
 	font-weight: 400;
 	src:
-		url(.Mplus1p_400-Regular.woff2) format('woff2'),
-		url(.Mplus1p_400-Regular.woff) format('woff'),
-		url(.Mplus1p_400-Regular.ttf) format('truetype');
+		url(./Mplus1p_400-Regular.woff2) format('woff2'),
+		url(./Mplus1p_400-Regular.woff) format('woff'),
+		url(./Mplus1p_400-Regular.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Mplus 1p';
 	font-style: normal;
 	font-weight: 500;
 	src:
-		url(.Mplus1p_500-Medium.woff2) format('woff2'),
-		url(.Mplus1p_500-Medium.woff) format('woff'),
-		url(.Mplus1p_500-Medium.ttf) format('truetype');
+		url(./Mplus1p_500-Medium.woff2) format('woff2'),
+		url(./Mplus1p_500-Medium.woff) format('woff'),
+		url(./Mplus1p_500-Medium.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Mplus 1p';
 	font-style: normal;
 	font-weight: 700;
 	src:
-		url(.Mplus1p_700-Bold.woff2) format('woff2'),
-		url(.Mplus1p_700-Bold.woff) format('woff'),
-		url(.Mplus1p_700-Bold.ttf) format('truetype');
+		url(./Mplus1p_700-Bold.woff2) format('woff2'),
+		url(./Mplus1p_700-Bold.woff) format('woff'),
+		url(./Mplus1p_700-Bold.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Mplus 1p';
 	font-style: normal;
 	font-weight: 800;
 	src:
-		url(.Mplus1p_800-ExtraBold.woff2) format('woff2'),
-		url(.Mplus1p_800-ExtraBold.woff) format('woff'),
-		url(.Mplus1p_800-ExtraBold.ttf) format('truetype');
+		url(./Mplus1p_800-ExtraBold.woff2) format('woff2'),
+		url(./Mplus1p_800-ExtraBold.woff) format('woff'),
+		url(./Mplus1p_800-ExtraBold.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Mplus 1p';
 	font-style: normal;
 	font-weight: 900;
 	src:
-		url(.Mplus1p_900-Black.woff2) format('woff2'),
-		url(.Mplus1p_900-Black.woff) format('woff'),
-		url(.Mplus1p_900-Black.ttf) format('truetype');
+		url(./Mplus1p_900-Black.woff2) format('woff2'),
+		url(./Mplus1p_900-Black.woff) format('woff'),
+		url(./Mplus1p_900-Black.ttf) format('truetype');
 }
