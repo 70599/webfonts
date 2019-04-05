@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Route 159';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Route%20159/Route159-BoldItalic.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Route%20159/Route159-BoldItalic.woff) format('woff');
+}
