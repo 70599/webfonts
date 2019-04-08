@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'NotoSansJP';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Noto%20Sans%20JP/NotoSansJP_400-Regular.woff2) format('woff2'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Noto%20Sans%20JP/NotoSansJP_400-Regular.woff) format('woff'),
+		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Noto%20Sans%20JP/NotoSansJP_400-Regular.otf) format('opentype');
+}
