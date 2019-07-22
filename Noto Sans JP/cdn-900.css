@@ -3,7 +3,7 @@
 	font-style: normal;
 	font-weight: 900;
 	src:
-		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Noto%20Sans%20JP/NotoSansJP_900-Black.woff2) format('woff2'),
-		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Noto%20Sans%20JP/NotoSansJP_900-Black.woff) format('woff'),
-		url(https://cdn.jsdelivr.net/gh/70599/webfonts/Noto%20Sans%20JP/NotoSansJP_900-Black.otf) format('opentype');
+		url(NotoSansJP_900-Black.woff2) format('woff2'),
+		url(NotoSansJP_900-Black.woff) format('woff'),
+		url(NotoSansJP_900-Black.otf) format('opentype');
 }
