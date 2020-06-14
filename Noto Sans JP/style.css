@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'NotoSansJP';
+	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 100;
 	src:
@@ -8,7 +8,7 @@
 		url(NotoSansJP_100-Thin.otf) format('opentype');
 }
 @font-face {
-	font-family: 'NotoSansJP';
+	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 300;
 	src:
@@ -17,7 +17,7 @@
 		url(NotoSansJP_300-Light.otf) format('opentype');
 }
 @font-face {
-	font-family: 'NotoSansJP';
+	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 400;
 	src:
@@ -26,7 +26,7 @@
 		url(NotoSansJP_400-Regular.otf) format('opentype');
 }
 @font-face {
-	font-family: 'NotoSansJP';
+	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 500;
 	src:
@@ -35,7 +35,7 @@
 		url(NotoSansJP_500-Medium.otf) format('opentype');
 }
 @font-face {
-	font-family: 'NotoSansJP';
+	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 700;
 	src:
@@ -44,7 +44,7 @@
 		url(NotoSansJP_700-Bold.otf) format('opentype');
 }
 @font-face {
-	font-family: 'NotoSansJP';
+	font-family: 'Noto Sans JP';
 	font-style: normal;
 	font-weight: 900;
 	src:
