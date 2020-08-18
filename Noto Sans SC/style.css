@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Noto Sans SC';
+	font-family: 'NotoSansSC';
 	font-display: swap;
 	font-style: normal;
 	font-weight: 100;
@@ -9,7 +9,7 @@
 		url(NotoSansSC_100-Thin.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Sans SC';
+	font-family: 'NotoSansSC';
 	font-display: swap;
 	font-style: normal;
 	font-weight: 300;
@@ -19,7 +19,7 @@
 		url(NotoSansSC_300-Light.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Sans SC';
+	font-family: 'NotoSansSC';
 	font-display: swap;
 	font-style: normal;
 	font-weight: 400;
@@ -29,7 +29,7 @@
 		url(NotoSansSC_400-Regular.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Sans SC';
+	font-family: 'NotoSansSC';
 	font-display: swap;
 	font-style: normal;
 	font-weight: 500;
@@ -39,7 +39,7 @@
 		url(NotoSansSC_500-Medium.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Sans SC';
+	font-family: 'Noto SansSC';
 	font-display: swap;
 	font-style: normal;
 	font-weight: 700;
@@ -49,7 +49,7 @@
 		url(NotoSansSC_700-Bold.otf) format('opentype');
 }
 @font-face {
-	font-family: 'Noto Sans SC';
+	font-family: 'NotoSansSC';
 	font-display: swap;
 	font-style: normal;
 	font-weight: 900;
